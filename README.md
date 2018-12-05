@@ -1,2 +1,2 @@
 # AP-Physics-C
-3/5 of the TOPS AP Physics Experience
+Three fifths of the lab reports and the TOPS AP Physics Experience.
